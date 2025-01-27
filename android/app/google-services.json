@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "244432598647",
+    "project_id": "tracker-app-56-6e384",
+    "storage_bucket": "tracker-app-56-6e384.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:244432598647:android:9a1777fc42f558a3467872",
+        "android_client_info": {
+          "package_name": "com.example.placetracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBd6MMX940aoeibN-dZ2jb4qUvEYjqeHRc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
